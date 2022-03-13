@@ -5,8 +5,6 @@ import Typography from '@mui/material/Typography';
 import { Button } from '@mui/material';
 import { CardActionArea } from '@mui/material';
 import { Link } from 'react-router-dom';
-import DeleteIcon from '@mui/icons-material/Delete';
-import SendIcon from '@mui/icons-material/Send';
 import { grey } from '@mui/material/colors';
 
 export default function MultiActionAreaCard({ titulo, fechacreacion, contenido, fecharecordatorio }) {
