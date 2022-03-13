@@ -3,7 +3,6 @@ import { supabase } from "../../config/supabaseClient";
 import AppBar from '../../components/AppBar';
 import { Button } from "@mui/material";
 import { Link } from "react-router-dom";
-import { use } from "i18next";
 
 
 
